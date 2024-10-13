@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/oluwagbengs" target="blank"><img src="https://img.shields.io/twitter/follow/oluwagbengs?logo=twitter&style=for-the-badge" alt="oluwagbengs" /></a> </p>
 
-- 🌱 I’m currently learning **about Retrieval Augmented Generation, Large Language Models**
+- 🌱 I’m currently learning **about Retrieval Augmented Generation, Large Language Models, and MLOps**
 
 - 💬 Ask me about **Machine Learning, Data Science, LLMs, RAGs**
 
