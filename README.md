@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **orimoogunjeo87@gmail.com**
 
-- ⚡ Fun fact **Driving is my hobby**
+- ⚡ Fun fact **I love driving and trying out new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
